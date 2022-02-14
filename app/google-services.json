@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329036453194",
+    "project_id": "teste-notificationsapp",
+    "storage_bucket": "teste-notificationsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329036453194:android:e926b3f1eb0809ba181db3",
+        "android_client_info": {
+          "package_name": "com.murilocardoso.applicationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329036453194-2n0egv5lr6gccnhtjvtla408ahvf5cg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfLo6QGc3RQDRXgN8FUyLY2Twx-JnokaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329036453194-2n0egv5lr6gccnhtjvtla408ahvf5cg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
